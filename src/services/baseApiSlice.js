@@ -4,7 +4,7 @@ const baseQuery = fetchBaseQuery({
   baseUrl:
     process.env.NODE_ENV === "development"
       ? process.env.NEXT_PUBLIC_API_BASE_URL_V1
-      : "https://makutano.azurewebsites.net/api",
+      : "makutano-elp.azurewebsites.net/api",
   credentials: "include",
 });
 
