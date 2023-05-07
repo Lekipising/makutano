@@ -14,7 +14,7 @@ Tools needed to run this project:
 ### Installation
 
 - Clone this project with `git clone https://github.com/kiplangatmike/social_outcomes.git`
-- Head to project directory with `cd social_outcomes`
+- Head to project directory with `cd makutano`
 - Request for the `.env` file from the team.
 - Install project packages with `npm install`
 - Launch the development server with `npm run dev`. This will run the app on port 3000.
